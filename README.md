@@ -1,15 +1,35 @@
-# Little Lemon Booking Website
+# 🍋 Little Lemon Restaurant — Booking App
 
-## Project Description
-This project was created during Meta's Coursera Front-End Development course. This website was the culmuniation of the Front-End Development Track.
+This project was created as part of **Meta’s Front-End Development Professional Certificate** on **Coursera**.  
+It serves as the **final capstone project**, demonstrating React fundamentals through a restaurant booking application.
 
-This website showcased implementing a booking application on the Little Lemon Website. This was created with React Components to show an understanding of utilizing React for creating the website. This also features utilzing API calls.
+---
 
-Please note: the only functionality working on this website besides the design is the Reserve a Table function.
+## 🧠 Overview
+The website represents the fictional **Little Lemon Restaurant** and includes a **table reservation feature** built with React.  
+It demonstrates:
+- Building reusable **React components**
+- Managing state and props
+- Simulating **API calls** for available booking times
+- Implementing **form validation**
+- Applying **responsive and accessible design**
 
-## Screenshots
-Here are some screeenshots of the application showcasing the Booking functionality.
+> **Note:** Only the **“Reserve a Table”** function is active; other pages serve design and layout purposes.
 
-![little lemon website table booking](/src/images/github-cover.png)
+---
+
+## 🛠️ Tech Stack
+- **React.js**
+- **JavaScript (ES6+)**
+- **HTML5 / CSS3**
+- **Node.js & npm**
+- **Git / GitHub**
+
+---
+
+## 🚀 Getting Started
+1. Clone this repository  
+   ```bash
+   git clone https://github.com/mokhiabdukarimov/React-Project.git
 
 
